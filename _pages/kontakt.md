@@ -16,6 +16,7 @@ permalink: /kontakt/
   <address>
     <span>Petr Plháček – provozní manažer</span>
     <abbr title="Telefon">T:</abbr>
+    <br />
     603 534 957
     <br />
     <abbr title="Email">E:</abbr>
@@ -24,6 +25,7 @@ permalink: /kontakt/
   <address>
     <span>Ing. Andrea Plháčková – jednatel</span>
     <abbr title="Telefon">T:</abbr>
+    <br />
     608 36 35 34
     <br />
     <abbr title="Email">E:</abbr>
